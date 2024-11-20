@@ -1,10 +1,19 @@
+import styled from "styled-components"
+import FaixaAzul from "../components/FaixaAzul"
+import Quiz from "../components/Quiz";
+
+const Container = styled.div`
+    padding-top:50px;
+`;
+
 
 const Sobre = () => {
     return (
     <>
-    <div>
-        <h1>sobre</h1>
-    </div>
+    <Container>
+        <FaixaAzul titulo="Sobre" paragrafo="Um Pequeno Quiz para aprender um pouco de nosso projeto"></FaixaAzul>
+    </Container>
+    <Quiz/>
     </>
     )
 }
