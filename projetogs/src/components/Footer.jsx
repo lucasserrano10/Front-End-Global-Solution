@@ -3,12 +3,9 @@ import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/f
 function Footer() {
   return (
     <div className="flex flex-col">
-      {/* Conteúdo principal */}
       <main className="flex-grow">
-        {/* Adicione aqui o conteúdo da página ou deixe vazio */}
       </main>
 
-      {/* Footer */}
       <footer className="bg-gray-900 text-white py-3 mt-4">
         <div className="container mx-auto flex flex-col items-center">
           <div className="text-2xl font-bold mb-2">Electric Chain</div>
