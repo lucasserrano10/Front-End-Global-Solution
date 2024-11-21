@@ -3,14 +3,13 @@ import styled from "styled-components";
 const Faixa = styled.div`
 
     background-color: #34495E; 
-    padding: 15px;
+    padding:35px;
     text-align: center;
     color: white;
     width: 100vw; 
     height: auto; 
     box-sizing: border-box;
     margin: 0;
-    padding-top: 60px;
     font-size: 16px;
     letter-spacing: 0.5px;
     word-wrap: break-word; 
@@ -22,13 +21,12 @@ const Titulo = styled.h1`
     margin: 0;
     font-family:poppins;
     text-transform: uppercase; 
-    padding-bottom: 10px; 
 `;
 
 const Paragrafo = styled.p`
     font-size: 15px; 
     font-weight: 500;
-    margin-top: 4px;
+    margin-top: 2px;
     width: 100%;
     font-family: 'Roboto', sans-serif;
     line-height: 1.6; 

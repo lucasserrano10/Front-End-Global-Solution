@@ -1,16 +1,5 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "username": "energia_user1",
-        "password": "securePass123",
-        "role": "admin"
-      },
-      {
-        "id": 2,
-        "username": "energia_user2",
-        "password": "energyRocks2024",
-        "role": "user"
-      }
-    ]
+  "usuarios": [
+    
+  ]
 }
