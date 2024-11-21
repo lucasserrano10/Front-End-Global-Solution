@@ -1,5 +1,18 @@
 {
   "usuarios": [
-    
+    {
+      "id": "28f3",
+      "nome": "Lucas Serrano",
+      "email": "lucasserrano376@gmail.com",
+      "idade": "18",
+      "telefone": "932529009"
+    },
+    {
+      "id": "aa82",
+      "nome": "Wellignton Cidade",
+      "email": "wellignton.city@gmail.com",
+      "idade": "35",
+      "telefone": "934339899"
+    }
   ]
 }
